@@ -1,6 +1,6 @@
 body
 {
-    background-image:url("../images/coronavirus-2.jpeg");
+    background-image:url("images/coronavirus-2.jpeg");
     font: normal 16px/1.5 "Helvetica Neue", sans-serif;
 }
 ul
@@ -32,7 +32,7 @@ ul li a:hover
 {
     padding:20px;
     height:100vh;
-    background:url("../images/Coronavirus-1.jpg");
+    background:url("images/Coronavirus-1.jpg");
     background-size:cover;
     position:relative;
 }
